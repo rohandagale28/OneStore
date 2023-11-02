@@ -6,3 +6,10 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Link to Project (live, hosted on netlify) : (https://heartfelt-quokka-4b6d01.netlify.app/)
+
+# Installation 
+```npm install```  installing dependencies
+# Local Host
+```npm run dev```   staring local host server
